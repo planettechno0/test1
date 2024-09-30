@@ -1,10 +1,361 @@
-vless://95aedd7c-77c8-4f16-8625-3643304d0b68@172.67.207.26:8880?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#%40Proxy_mtm
-vless://95aedd7c-77c8-4f16-8625-3643304d0b68@188.114.97.141:8880?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#%40Proxy_mtm
-vless://95aedd7c-77c8-4f16-8625-3643304d0b68@www.speedtest.net:8880?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#%40Proxy_mtm
-vless://95aedd7c-77c8-4f16-8625-3643304d0b68@172.67.207.26:8880?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#%40Proxy_mtm
-vless://95aedd7c-77c8-4f16-8625-3643304d0b68@check-host.net:8880?path=%2FTELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM-TELEGRAM-%40PROXY_MTM%3Fed%3D2048&security=none&encryption=none&host=1.www.speedtest.net.zula.ir.zemestanil.iR.&type=httpupgrade#%40Proxy_mtm
-trojan://669d0ac7b5b64ebbb1abb75d5d540a5c@104.16.159.6:443?path=%2F6b777a91&security=tls&host=bangladeshipatri.com&type=ws&sni=bangladeshipatri.com#%40V2rayNGVPN
-trojan://Watashi_VPN@104.17.148.22:443?path=%2F&security=tls&host=t-watashi-r-jacket-o-people-jan.watashi-java.ir&fp=chrome&type=ws&sni=t-watashi-r-jacket-o-people-jan.watashi-java.ir#%40V2rayNGVPN
-vless://DIGIV2RaY@www.parspack.com:2095?path=%2FDigi-Tel-Digiv-Digicnc-saaaalaaaam-%3Fed%3D1024&security=none&encryption=none&host=www.speedtest.net.ftp.debian.org.www.digikala.com.radiotehran.org.&type=ws#%40meli_proxyy
-trojan://242a3d8eee5e4ed1a6bfa4141d549a25@162.159.152.2:443?path=6b777a91&security=tls&host=jobscareerforlawyers.com&type=ws&sni=jobscareerforlawyers.com#%40V2rayNGVPN
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@104.17.147.11:443?path=%2F6b777a91&security=tls&host=jobscareerfortoday.com&type=ws&sni=jobscareerfortoday.com#%40V2rayNGVPN
+Transcript
+
+
+Search in video
+Intro
+glasses are going to be the next major
+Computing platform is we're going to get
+to this point probably sometime in the
+2030s where you have your phone with you
+but it's going to stay in your pocket
+more because you're just going to be
+doing more and more things on your
+glasses that maybe today you would do on
+your phone Mark I want to go back a bit
+actually a long ways to when you first
+built Facebook I believe you initially
+built Facebook in PHP if you were to
+build it today what programming language
+would you choose I think if I'd built it
+even like a year or two later would have
+been python the first version of
+Facebook was something I threw together
+in like a couple of weeks based on like
+a bunch of other stuff that I was
+working on for fun looking ahe 100 years
+from now what do you want to be
+remembered for and what do you want meta
+to be remembered for oh hi Mark how are
+BIG announcements from Meta Connect
+you today hey good to see you thanks for
+coming to connect thanks for having me
+today has been so exciting so many
+amazing announcements I'm curious to
+hear now I know this is like picking a
+favorite child impossible but what are
+some of your favorite announcements from
+today oh man I mean there's a lot so I
+mean Quest 3s at $299 that's awesome I
+mean Quest 2 when we got to $300 that
+was like a killer price point for that
+so I I I I'm super proud of what we did
+with Quest 3 and the high quality mixed
+reality but getting it to $300 now I
+think is going to be a really big deal
+for a lot of people all the AI stuff I
+think is a is a really big deal um the
+voice is is I think you know it's just
+so much more natural right now with Med
+AI texted a few questions uh every day
+but when I was playing around with it
+with my daughters last night and we just
+had like a 15minute conversation about
+like what our family should be for
+Halloween and and it's just like a
+completely different vibe when you're
+using it with voice so I think that's
+going to be a big deal all the AI stuff
+that we're bringing to the ray bands I
+think is going to be neat and making it
+so your glasses can help you remember
+things um making it that now the glasses
+can give you suggestions and help while
+you're doing things whether it's cooking
+or like picking out an outfit or
+whatever you're doing and then obviously
+Orion right I mean the I mean the I
+Orion the first full holographic AR glasses
+they're just crazy glasses right it's
+like the first full wide field of view
+holographic AR glasses it's um you not
+ready to ship them yet as a consumer
+product but you know we've been working
+on that thing for like 10 years so it's
+um so I'm I I'm really excited to just
+get to show it to people I know I so I
+got to try Orion
+yesterday I was blown away speechless I
+I wish I could put it into words but
+first of all they're so lightweight I I
+could picture myself wearing it the
+entire day and how it would be useful
+from waking up to
+going to bed the gestures as well it
+just came so naturally it was yeah the
+neural interface is pretty sweet yeah it
+really is so I'm I'm very excited about
+that and uh everything else you listed
+of course to yeah Mark I want to go back
+What programming language would you choose to build Facebook in today
+a bit actually a long ways to when you
+first built Facebook I believe you
+initially built Facebook in PHP correct
+me if I'm wrong no that's correct if you
+were to build it today what programming
+language would you choose oh I think if
+I'd built it even like a year or two
+later it would have been python nice
+but but you're just talking about the
+website I mean now if you're starting
+something it would probably be mobile
+first today yes and cuz I mean obviously
+that Paradigm changed right over the you
+know by you know 2010 or something most
+development was mobile and I don't know
+and the answer will change in the future
+it'll be whatever um programming
+language is the most important for the
+glasses exactly in the future I mean
+it's that was another thing we launched
+the mixed reality version of Instagram
+and and Facebook today which I think is
+going to be awesome it's like you just
+get this big screen experience of feed
+and reals but yeah um I PHP it's it's
+it's it was easy to hack around it and
+it was just sort of like the development
+environment that I had the most set up
+back then I did like all these fun
+projects and you know the first version
+Mark Zuckerberg on his early days at college
+of Facebook was something I threw
+together in like a couple of weeks based
+on like a bunch of other stuff that I
+was working on for fun when I was when I
+was in school class um stuff around I
+mean I did a bunch of pranks a bunch of
+a bunch of study tools a bunch of um
+different stuff for the for my for my
+school around um helping people figure
+out what classes they should take all
+that but I was just constantly building
+stuff it was fun that's really cool that
+sounds I'm I'm in that stage right now
+constantly building stuff it's fun it is
+fun yeah and it's and it's clearly never
+changed for you you're always iterating
+building like building stuff yeah ex
+The importance of experimenting and building new things
+it's good to not get you know especially
+the the phase like you're talking about
+it's like trying like experimenting with
+a lot of stuff lets you figure out what
+resonates right rather than just yeah
+just going kind of committing too early
+to something I like that speaking of
+Mark Zuckerberg on the importance on open source AI
+coding and Technology I know you're
+you're very uh passionate about open uh
+Source AI totally I'm curious to hear
+why was it so important to you to ensure
+llama was open source yeah well we've
+done a lot of Open Source work uh at
+meta over the years and I mean honestly
+i' I'd like to say that it's because
+like we had some amazing Vision on this
+but a lot of it was just because you
+know we got started after a lot of the
+other big tech companies and they had
+this great infrastructure and by the
+time that we built it
+um it wasn't you know a proprietary
+Advantage for us so our view was and
+this goes back to like our server
+designs everything early on so it was
+just like okay we might as well open
+source this so that way we can get the
+benefit of the whole Community using
+this um and the improvements that
+everyone brings but you know if you go
+back to the beginning of of Facebook and
+a lot of the infrastructure that we
+built like Google already had kind of
+proprietary closed versions of all the
+infrastructure that we needed to build
+it just kind of made sense so we had a
+lot of experience with that and how it
+was really useful for us and by the time
+we got to AI models just like okay well
+making all of our other infrastructure
+is generally making it all open source
+has generally been good for us so let's
+try that with llama and it's been good
+it's been very good I know myself and
+millions of other developers are very
+happy that it's open source what are
+What are some of the coolest projects built on Llama
+some of the coolest projects you've seen
+developers build on llama well I mean
+people f- tune it to do a lot of crazy
+things right so a lot of the stuff um I
+don't even necessarily realize is llama
+until a developer or an entrepreneur
+comes up to me later and is like oh this
+like is this foundational part of how
+like recommendations or um or how we
+solve this problem in our app and it's
+like in in all different domains
+Commerce music I mean it's yeah I mean
+just it's it's like but that's that's
+the thing that's so neat about AI is it
+is like the ultimate General technology
+right um it's the difference between
+kind of traditional machine learning
+applications and general intelligence is
+that it can be used for all these
+different uh you know just basically
+every domain 100% And it enables so many
+people in different domains to you know
+build different things help with
+different tasks it's it's really
+incredible yeah Mark I'm curious to hear
+Orion AR glasses build process
+so going back to Orion for a sec uh I
+know I mentioned earlier it kind of blew
+my mind so I'd love to hear more uh
+about your thoughts around it you
+mentioned I think it was how long it was
+in the works for quite a few years is
+that right oh yeah I think we got
+started working on this around 2014 wow
+now I mean that was when the Oculus team
+first joined us yeah and they obviously
+weren't working on AR I mean they had
+the Oculus team was working on PC VR so
+it's been quite a few leaps from you
+know what we were that team what we were
+originally doing to this but the vision
+has been pretty consistent we knew we
+needed Standalone headsets um for for
+mixed reality
+um and we knew that glasses were the
+ultimate form factor that we were going
+for So
+within maybe a year two of of um really
+spinning up that effort started working
+on the glasses version of it and then
+obviously you know you start off with a
+small team and they're exploring and
+then you kind of figure out what will be
+possible and um in the in the early days
+of working on something you're more just
+figuring out what are all the challenges
+that we need to solve and it's like okay
+we're going to need a new display stack
+with wave guides and projectors it's
+like okay so now we need to go build a
+team around who are the best people who
+are doing wave guides and who are the
+best people are doing projectors and
+we're going to need to design our own
+custom silicon so okay who are the best
+people who could do custom silicon and
+all these different things so it was an
+effort that just kind of built over time
+but it's something that we've been
+thinking about and working towards for
+10 years wow that's incredible when I
+was when I had them on and I was going
+Could Orion glasses replace our phones
+through different demos with it one of
+my immediate thoughts was I wonder if
+this could potentially replace my phone
+I'm curious to hear your thoughts on
+that well I think glasses are going to
+be the next major Computing platform but
+each new platform doesn't tend to just
+replace the old one right so I guess the
+the version of this that I think about
+is like you probably have this
+experience often where you're sitting at
+your desk and you have your computer
+there yet you still pull out your phone
+to do things that's true yes okay so at
+some point in the last 10 years years
+mobile really became the primary
+Computing platform we didn't get rid of
+our computers it's just that even when
+you have it you still do more things on
+your phone so what I think is going to
+happen with glasses is we're going to
+get to this point probably sometime in
+the 2030s where you have your phone with
+you it's but it's going to stay in your
+pocket more because you're just going to
+be doing more and more things on your
+glasses that maybe today you would do on
+your phone you'll reach a point where
+you know just like with your computer
+there probably some things that could be
+done in a richer way or or better in
+some way on your phone but you're just
+going to the glasses will be your main
+Computing platform and that will be kind
+of your default go-to thing and then
+maybe over time you get to this point
+where people just don't bring their
+phone with them everywhere but but I
+think that's really far down the line I
+think we're going to have our phone for
+a while it just it'll stay in the pocket
+more I like that I like that and maybe
+that was just me being uh you know I
+always lose my phone or forget it so I
+was like okay this could be good for me
+no but I think a lot of people have this
+perception that an order for glasses to
+win phones must lose and I don't think
+that that's true right it's just like
+like computers didn't have to lose for
+phones to win 100% um so I I think that
+there glasses will become the next main
+Computing platform because of their
+ubiquity and integration into our lives
+um not because we somehow are going to
+decide consciously that we don't want to
+use phones as much yes I love that
+perspective Mark last question I have
+for you looking ahead 100 years from now
+What does Mark Zuckerberg want to be remembered for and Meta to be remembered for?
+what do you want to be remembered for
+and what what do you want meta to be
+remembered for oh I don't know I
+mean what our company is I mean we're a
+technology
+company that you know builds different
+things to help people connect right so
+and that takes the form of different
+things over time so it started with
+websites then it was various mobile apps
+the apps focused on feeds and messaging
+and profiles and like all these things
+and that functionality evolved over time
+and now we're focused on building more
+of the fundamental platforms around how
+people will connect
+I imagine that whole thing will just
+continue evolving yes I would guess that
+if you look back you know 20 30 years
+from now we're still going to be a
+technology company right we're not like
+we're not an app company right it's you
+know we're not just like focused on only
+content right so we're focused on
+primarily building the underlying
+technology platform and I I think that
+that's going to be true for for probably
+as you know I mean and like certainly as
+long as I'm doing this I mean it's tough
+to foresee how things look after that
+I also just want us to be a company that
+builds awesome things and I would like
+people to look back on us and say oh
+they took a bunch of really big swings
+and maybe not everything that they did
+worked but a bunch of the stuff that
+they did really kind of pushed the
+industry and pushed the world in
+different directions and that was cool I
+like that Mark thank you so much for
+your time yeah thank you
+[Music]

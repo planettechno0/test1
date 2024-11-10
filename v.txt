@@ -1,361 +1,528 @@
 Transcript
 
 
-Search in video
-Intro
-glasses are going to be the next major
-Computing platform is we're going to get
-to this point probably sometime in the
-2030s where you have your phone with you
-but it's going to stay in your pocket
-more because you're just going to be
-doing more and more things on your
-glasses that maybe today you would do on
-your phone Mark I want to go back a bit
-actually a long ways to when you first
-built Facebook I believe you initially
-built Facebook in PHP if you were to
-build it today what programming language
-would you choose I think if I'd built it
-even like a year or two later would have
-been python the first version of
-Facebook was something I threw together
-in like a couple of weeks based on like
-a bunch of other stuff that I was
-working on for fun looking ahe 100 years
-from now what do you want to be
-remembered for and what do you want meta
-to be remembered for oh hi Mark how are
-BIG announcements from Meta Connect
-you today hey good to see you thanks for
-coming to connect thanks for having me
-today has been so exciting so many
-amazing announcements I'm curious to
-hear now I know this is like picking a
-favorite child impossible but what are
-some of your favorite announcements from
-today oh man I mean there's a lot so I
-mean Quest 3s at $299 that's awesome I
-mean Quest 2 when we got to $300 that
-was like a killer price point for that
-so I I I I'm super proud of what we did
-with Quest 3 and the high quality mixed
-reality but getting it to $300 now I
-think is going to be a really big deal
-for a lot of people all the AI stuff I
-think is a is a really big deal um the
-voice is is I think you know it's just
-so much more natural right now with Med
-AI texted a few questions uh every day
-but when I was playing around with it
-with my daughters last night and we just
-had like a 15minute conversation about
-like what our family should be for
-Halloween and and it's just like a
-completely different vibe when you're
-using it with voice so I think that's
-going to be a big deal all the AI stuff
-that we're bringing to the ray bands I
-think is going to be neat and making it
-so your glasses can help you remember
-things um making it that now the glasses
-can give you suggestions and help while
-you're doing things whether it's cooking
-or like picking out an outfit or
-whatever you're doing and then obviously
-Orion right I mean the I mean the I
-Orion the first full holographic AR glasses
-they're just crazy glasses right it's
-like the first full wide field of view
-holographic AR glasses it's um you not
-ready to ship them yet as a consumer
-product but you know we've been working
-on that thing for like 10 years so it's
-um so I'm I I'm really excited to just
-get to show it to people I know I so I
-got to try Orion
-yesterday I was blown away speechless I
-I wish I could put it into words but
-first of all they're so lightweight I I
-could picture myself wearing it the
-entire day and how it would be useful
-from waking up to
-going to bed the gestures as well it
-just came so naturally it was yeah the
-neural interface is pretty sweet yeah it
-really is so I'm I'm very excited about
-that and uh everything else you listed
-of course to yeah Mark I want to go back
-What programming language would you choose to build Facebook in today
-a bit actually a long ways to when you
-first built Facebook I believe you
-initially built Facebook in PHP correct
-me if I'm wrong no that's correct if you
-were to build it today what programming
-language would you choose oh I think if
-I'd built it even like a year or two
-later it would have been python nice
-but but you're just talking about the
-website I mean now if you're starting
-something it would probably be mobile
-first today yes and cuz I mean obviously
-that Paradigm changed right over the you
-know by you know 2010 or something most
-development was mobile and I don't know
-and the answer will change in the future
-it'll be whatever um programming
-language is the most important for the
-glasses exactly in the future I mean
-it's that was another thing we launched
-the mixed reality version of Instagram
-and and Facebook today which I think is
-going to be awesome it's like you just
-get this big screen experience of feed
-and reals but yeah um I PHP it's it's
-it's it was easy to hack around it and
-it was just sort of like the development
-environment that I had the most set up
-back then I did like all these fun
-projects and you know the first version
-Mark Zuckerberg on his early days at college
-of Facebook was something I threw
-together in like a couple of weeks based
-on like a bunch of other stuff that I
-was working on for fun when I was when I
-was in school class um stuff around I
-mean I did a bunch of pranks a bunch of
-a bunch of study tools a bunch of um
-different stuff for the for my for my
-school around um helping people figure
-out what classes they should take all
-that but I was just constantly building
-stuff it was fun that's really cool that
-sounds I'm I'm in that stage right now
-constantly building stuff it's fun it is
-fun yeah and it's and it's clearly never
-changed for you you're always iterating
-building like building stuff yeah ex
-The importance of experimenting and building new things
-it's good to not get you know especially
-the the phase like you're talking about
-it's like trying like experimenting with
-a lot of stuff lets you figure out what
-resonates right rather than just yeah
-just going kind of committing too early
-to something I like that speaking of
-Mark Zuckerberg on the importance on open source AI
-coding and Technology I know you're
-you're very uh passionate about open uh
-Source AI totally I'm curious to hear
-why was it so important to you to ensure
-llama was open source yeah well we've
-done a lot of Open Source work uh at
-meta over the years and I mean honestly
-i' I'd like to say that it's because
-like we had some amazing Vision on this
-but a lot of it was just because you
-know we got started after a lot of the
-other big tech companies and they had
-this great infrastructure and by the
-time that we built it
-um it wasn't you know a proprietary
-Advantage for us so our view was and
-this goes back to like our server
-designs everything early on so it was
-just like okay we might as well open
-source this so that way we can get the
-benefit of the whole Community using
-this um and the improvements that
-everyone brings but you know if you go
-back to the beginning of of Facebook and
-a lot of the infrastructure that we
-built like Google already had kind of
-proprietary closed versions of all the
-infrastructure that we needed to build
-it just kind of made sense so we had a
-lot of experience with that and how it
-was really useful for us and by the time
-we got to AI models just like okay well
-making all of our other infrastructure
-is generally making it all open source
-has generally been good for us so let's
-try that with llama and it's been good
-it's been very good I know myself and
-millions of other developers are very
-happy that it's open source what are
-What are some of the coolest projects built on Llama
-some of the coolest projects you've seen
-developers build on llama well I mean
-people f- tune it to do a lot of crazy
-things right so a lot of the stuff um I
-don't even necessarily realize is llama
-until a developer or an entrepreneur
-comes up to me later and is like oh this
-like is this foundational part of how
-like recommendations or um or how we
-solve this problem in our app and it's
-like in in all different domains
-Commerce music I mean it's yeah I mean
-just it's it's like but that's that's
-the thing that's so neat about AI is it
-is like the ultimate General technology
-right um it's the difference between
-kind of traditional machine learning
-applications and general intelligence is
-that it can be used for all these
-different uh you know just basically
-every domain 100% And it enables so many
-people in different domains to you know
-build different things help with
-different tasks it's it's really
-incredible yeah Mark I'm curious to hear
-Orion AR glasses build process
-so going back to Orion for a sec uh I
-know I mentioned earlier it kind of blew
-my mind so I'd love to hear more uh
-about your thoughts around it you
-mentioned I think it was how long it was
-in the works for quite a few years is
-that right oh yeah I think we got
-started working on this around 2014 wow
-now I mean that was when the Oculus team
-first joined us yeah and they obviously
-weren't working on AR I mean they had
-the Oculus team was working on PC VR so
-it's been quite a few leaps from you
-know what we were that team what we were
-originally doing to this but the vision
-has been pretty consistent we knew we
-needed Standalone headsets um for for
-mixed reality
-um and we knew that glasses were the
-ultimate form factor that we were going
-for So
-within maybe a year two of of um really
-spinning up that effort started working
-on the glasses version of it and then
-obviously you know you start off with a
-small team and they're exploring and
-then you kind of figure out what will be
-possible and um in the in the early days
-of working on something you're more just
-figuring out what are all the challenges
-that we need to solve and it's like okay
-we're going to need a new display stack
-with wave guides and projectors it's
-like okay so now we need to go build a
-team around who are the best people who
-are doing wave guides and who are the
-best people are doing projectors and
-we're going to need to design our own
-custom silicon so okay who are the best
-people who could do custom silicon and
-all these different things so it was an
-effort that just kind of built over time
-but it's something that we've been
-thinking about and working towards for
-10 years wow that's incredible when I
-was when I had them on and I was going
-Could Orion glasses replace our phones
-through different demos with it one of
-my immediate thoughts was I wonder if
-this could potentially replace my phone
-I'm curious to hear your thoughts on
-that well I think glasses are going to
-be the next major Computing platform but
-each new platform doesn't tend to just
-replace the old one right so I guess the
-the version of this that I think about
-is like you probably have this
-experience often where you're sitting at
-your desk and you have your computer
-there yet you still pull out your phone
-to do things that's true yes okay so at
-some point in the last 10 years years
-mobile really became the primary
-Computing platform we didn't get rid of
-our computers it's just that even when
-you have it you still do more things on
-your phone so what I think is going to
-happen with glasses is we're going to
-get to this point probably sometime in
-the 2030s where you have your phone with
-you it's but it's going to stay in your
-pocket more because you're just going to
-be doing more and more things on your
-glasses that maybe today you would do on
-your phone you'll reach a point where
-you know just like with your computer
-there probably some things that could be
-done in a richer way or or better in
-some way on your phone but you're just
-going to the glasses will be your main
-Computing platform and that will be kind
-of your default go-to thing and then
-maybe over time you get to this point
-where people just don't bring their
-phone with them everywhere but but I
-think that's really far down the line I
-think we're going to have our phone for
-a while it just it'll stay in the pocket
-more I like that I like that and maybe
-that was just me being uh you know I
-always lose my phone or forget it so I
-was like okay this could be good for me
-no but I think a lot of people have this
-perception that an order for glasses to
-win phones must lose and I don't think
-that that's true right it's just like
-like computers didn't have to lose for
-phones to win 100% um so I I think that
-there glasses will become the next main
-Computing platform because of their
-ubiquity and integration into our lives
-um not because we somehow are going to
-decide consciously that we don't want to
-use phones as much yes I love that
-perspective Mark last question I have
-for you looking ahead 100 years from now
-What does Mark Zuckerberg want to be remembered for and Meta to be remembered for?
-what do you want to be remembered for
-and what what do you want meta to be
-remembered for oh I don't know I
-mean what our company is I mean we're a
-technology
-company that you know builds different
-things to help people connect right so
-and that takes the form of different
-things over time so it started with
-websites then it was various mobile apps
-the apps focused on feeds and messaging
-and profiles and like all these things
-and that functionality evolved over time
-and now we're focused on building more
-of the fundamental platforms around how
-people will connect
-I imagine that whole thing will just
-continue evolving yes I would guess that
-if you look back you know 20 30 years
-from now we're still going to be a
-technology company right we're not like
-we're not an app company right it's you
-know we're not just like focused on only
-content right so we're focused on
-primarily building the underlying
-technology platform and I I think that
-that's going to be true for for probably
-as you know I mean and like certainly as
-long as I'm doing this I mean it's tough
-to foresee how things look after that
-I also just want us to be a company that
-builds awesome things and I would like
-people to look back on us and say oh
-they took a bunch of really big swings
-and maybe not everything that they did
-worked but a bunch of the stuff that
-they did really kind of pushed the
-industry and pushed the world in
-different directions and that was cool I
-like that Mark thank you so much for
-your time yeah thank you
-[Music]
+please welcome Nvidia founder and CEO
+Jensen
+Hong hello
+Mumbai wow it's so great to be here
+India very very dear to the world's
+computer industry Central to the IT
+industry at the center at the core of
+the it of just about every single
+company in the world let me thank all of
+our partners our incredible partners
+that we're working with here in India to
+transform the IT industry together and
+so I'm delighted that all of you have
+joined us today there are two
+fundamental shifts that are happening at
+the same time in
+1964 the IBM system
+360
+introduced the world to the concept of
+it the IT industry as we know it
+introduced the idea of general purpose
+Computing for the last 30 years we've
+had the benefit of mors law an
+incredible
+phenomenon without changing the
+software the hardware can continue to
+improve in an architecturally compatible
+way and the benefits of that software
+doubles every year Mo's law made it
+possible for us to continue to drive
+down cost democratize
+Computing as we know it today but we
+know now that the scaling of CPUs has
+reached its limit we can't continue to
+ride that curve that that Free Ride The
+Free Ride of Moors law has ended we have
+to now do something different we started
+our company to accelerate software our
+vision was there are applications that
+would benefit from acceleration if we
+augmented general purpose Computing we
+take the workload that is very computer
+intensive and we offload it and we
+accelerate it using a model we call Cuda
+a programming model that we invented C
+Cuda that made it possible for us to
+accelerate applications tremendously
+real-time computer Graphics was made
+possible because of Nvidia coming into
+the world and make possible this new
+processor we call gpus the GPU was
+really the first accelerated
+Computing architecture running Cuda
+running computer Graphics a perfect
+example we democratized computer
+Graphics as we know it 3D Graphics is
+now literally everywhere and so over the
+last 30 years we've been on a journey to
+accelerate one domain of application
+after another today we accelerate so
+many important industries ktho is
+fundamental to semiconductor
+manufacturing computational lithography
+simulation computer Aid and Engineering
+even 5G radio that we've recently
+announced Partnerships with that we can
+accelerate the 5G software stack Quantum
+Computing so that we can invent the
+future of computing with classical
+Quantum hybrid Computing parabricks are
+Gene sequencing software stack CVS one
+of the most important things every
+single company's working on is going
+from databases to knowledge bases so
+that we can create AI databases using
+qvs that we create and vectorize all of
+your data these acceleration libraries
+Now cover so many different domains that
+it
+appears that accelerated
+Computing is used everywhere but that's
+simply because we've applied this
+architecture one domain after another
+domain that we've covered just about
+every single industry now accelerated
+Computing or Cuda has reached the
+Tipping Point every single time I've
+come to India I've had the benefit of
+talking to you about deep learning had
+the benefit of talking to you about
+machine learning and I think it's very
+very clear
+now the world has completely
+changed the first thing that happened of
+course is how we do software our
+industry is underpinned by the method by
+which software is done the computer
+model that we understood quite well and
+it of course created one one of the
+largest Industries in the world right
+here in India the production of
+software coding programming became a
+whole industry however that approach of
+developing software has been
+disrupted it is now not
+coding but machine
+learning this way of doing
+software notice is based on
+fundamentally machine learning and we
+have gone from coding to machine
+learning from developing
+software to creating artificial
+intelligence and from software that
+prefers to run on CPUs to now neural
+networks that runs best on gpus this at
+its core is what happened to our
+industry in the last 10 years we
+dedicated ourselves to advance this
+field and so this is what we now build
+this is what a GPU looks like today this
+is
+Blackwell incredible system that is
+designed to study data at an enormous
+scale we have now learned the meaning of
+so many different types of data we have
+learned to represent how to
+represent information in so many
+different modalities not only have we
+learned the meaning of it we can
+translate it to another modality so one
+great example of course is translating
+English to Hindi
+translating
+English large body of text into other
+English summarization from pixels to
+image image
+recognition from words to pixels image
+generation from
+images videos to words
+captioning from
+words to
+proteins used for drug Discovery from
+words to chemicals discovering new
+compounds from amino acids to proteins
+understanding the structure of proteins
+in the last couple two three years the
+number of generative AI companies around
+the world tens of
+thousands tens of billions of dollars
+have been invested in this field all
+because of this one instrument that made
+it possible for us to study data at
+enormous scales in order to build the
+Blackwell system of course the Blackwell
+gpus is involved but it takes seven
+other
+chips
+tsmc manufacture all of these chips and
+they're just doing an extraordinary job
+ramping the Blackwell system this is in
+a all Blackwell is in full production
+and we're hoping to uh we're expecting
+to deliver in volume production in Q4
+this is MV
+link and it goes across the entire back
+spine of a rack of gpus and these gpus
+are all connected from the top to the
+bottom using MV link driving these
+incredible CIS the world's longest
+driving CIS for copper and it connects
+uh all of these gpus together 72 dual
+GPU packages of black Wes 144 gpus
+connected together so it's one giant GPU
+this is connected to this
+switch and this is one of the most
+advanced switches the world's ever built
+now all of this together represents
+Blackwell and then it runs the software
+uh that's on Top This is what Nvidia
+builds today those of you who have known
+us for a very long time it's really
+quite surprising how the company has
+transformed but literally we reason from
+first principles how Computing was going
+to be done in the fure future and this
+is Blackwell and what we're trying to do
+is to learn larger and smarter models
+it's called the scaling law the scaling
+law comes from the fact that the
+observation that the empirical
+observation and measurements that
+suggests the more data you have to train
+a large language model with and
+therefore the correspondingly
+large model size you know the more
+information you want to learn from
+the larger the model has to be or the
+larger model you would like to train the
+more data you need to have the second
+thing that we've discovered recently and
+this is a very big deal after you're
+done training the model you give it a
+prompt and the AI process through a very
+large neural network and produces a
+sequence of answers in the future and
+starting with strawberry we realize that
+of course intelligence is not just one
+shot but intelligence requires thinking
+and thinking is reasoning and maybe
+you're doing path planning and maybe
+you're doing some simulations in your
+mind you're reflecting on your own
+answers and so as a
+result thinking results in higher
+quality answers and we've now discovered
+a second scaling law and this is a SCA
+scaling law at a time of inference the
+longer you think the higher quality
+answer you can produce and so that's
+where thinking reasoning planning comes
+in and the more you compute the higher
+quality answer uh you could provide and
+so we now have two fundamental scaling
+laws that is driving our technology
+development first for training and now
+for inference the number of foundation
+model makers has more than doubled since
+the beginning of Hopper there are more
+companies that realize that fundamental
+intelligence is vital to their company
+and that they have to build Foundation
+model technology and second the size of
+the models have increased by 20 30 40x
+the amount of computation necessary to
+train these model because of uh the size
+of the models but also multimodality
+capability um reinforcement learning
+capability synthetic data generation
+capability the amount of data that we
+use to train these models has really
+grown tremendously that's one and then
+the other reason of course is that
+blackwall is also used for generating
+tokens at incredible speeds and so
+together all of these factors has led to
+the demand for black wellbeing
+incredibly High okay so so Nvidia in
+India uh we have we have a really rich
+ecosystem here uh the first thing that
+you have to realize is that in order to
+build an AI ecosystem in any industry or
+in any country you have to start first
+with the ecosystem of the infrastructure
+and we announced that Yoda that ET T
+Communications and our other partners uh
+are joining us to build fundamental
+Computing infrastructure here in India
+and in just one year's time by the end
+of this year we will have nearly 20
+times more
+compute here in India than just a little
+over a year ago that's the amount of
+infrastructure we're
+y so the first part of building an AI
+ecosystem is the AI infrastructure just
+as the first part of uh infrastructure
+for the internet ecosystem was building
+the infrastructure of of networking of
+course uh the infrastructure of
+networking internet consists of the
+personal computer cloud and and internet
+itself um in the case of AI it starts
+with the AI Computing infrastructure the
+next part the operating system of AI is
+large language models and we've worked
+with Partners here in India to build the
+Hindi large language model the next
+layer is um the application layer above
+that and uh working with us to bring uh
+AI to to uh the ecosystem of India of
+course uh AI native companies that are
+creating new applications that are
+started that made possible only with AI
+and then our Service Partners uh from
+from wiipro to infosis to to TCS working
+with us to take the AI models and the AI
+infrastructure out to the world's
+Enterprises now that's Nvidia in India
+I'm going to have uh Vel our country
+leader
+come join me on stage this is a time now
+where the large language models and the
+fundamental AI capabilities have reached
+a level of capabilities we're able to
+now create what is called agents large
+language models that understand
+understand the data that of course is
+being presented it could be it could be
+streaming data could video data language
+model data it could be data of all kinds
+the first stage is perception the second
+is reasoning about given its
+observations uh what is the mission and
+what is the task it has to perform in
+order to perform that task the agent
+would break down that task into steps of
+other tasks and uh it would reason about
+what it would take and it would connect
+with other AI models and so we're going
+to have agents that are helping our
+employees become super employees these
+agents or agentic AI models uh augment
+all of our employees to supercharge them
+make them more productive um that entire
+process we put into essentially an agent
+life cycle Suite of libraries and we
+call that Nemo our partners are working
+with us to integrate these libraries
+into their platforms so that they could
+enable agents to be created
+onboarded deployed improved into a life
+cycle of Agents essentially this is a
+factory that builds AIS today we have
+Computing from Yota which has built the
+state-of-the-art infrastructure tatas
+are going live E2 e2e has been in
+existence giving us exalent Computing
+infrastructure for a long long period of
+time all this Computing helped us to Le
+frog to solve one of India's largest
+problem that is a about
+communication today the work that we are
+doing in iits the work that we are doing
+at different organization is all a
+result of coming together solving the
+critical issue that India Has Not only
+was the language getting solved we also
+realize very quickly that there are many
+mega challenges that India has a Wells
+spoken Indian and a healthy Indian
+always make a difference and that's why
+we have companies who've been working on
+health as many of us know it's been
+challenging how do we look after our
+health but Diagnostics coming from sck
+Tuple cure. is really helping us solve
+many of these challenges it takes an
+entire ecosystem of Partners to be able
+to help the world apply AI to help their
+employees be more productive and this is
+whereas India was focused on it the back
+office operations of software the
+delivery of software producing software
+the next generation of it is going to be
+about producing and delivery of
+AI and as you know the delivery of
+software coding and the delivery of AI
+is fundamentally different but
+dramatically more
+impactful insanely more
+exciting and the ability for this
+industry for
+India to help every single company
+around the world to enjoy the benefit of
+agents to enjoy the benefits of AIS
+across all of their different
+functionalities to be able to deploy it
+at scale that next generation of AI
+needs to understand the physical world
+we call it physical AI now here here in
+India we've got a really great ecosystem
+who is working with us to take this
+infrastructure take this ecosystem of
+capabilities to help the world build
+physical AI systems and you know what
+I've really loved is adverb is one of
+the largest robotics company they build
+Robotics and more importantly they put
+it in a digital twin where optimization
+takes place they teach the robo all the
+inputs that comes out of the physical
+world not only is that work taking place
+our system in greaters asenta TCS Tech
+Mahindra are taking that knowledge not
+only into India but also outside India
+so do it in India for India and do from
+India for
+globe start
+locally grow globally right right that's
+fantastic I want to introduce you to
+somebody I met today there's a superstar
+in in the audience aay Kumar what I want
+to know is what is one thing which um AI
+can't copy from humans depending on the
+jobs that we do sometimes it could do
+20% of our jobs 20% of our work a
+thousand times better for some people it
+might be able to do 50% of their job a
+thousand times better but in no job can
+they do all of it every one of us should
+apply
+AI to automate to become an assistant to
+help us with that either 20% 40% or 50%
+and so the most important thing the most
+important thing for us right now is to
+build amazing AIS build safe AIS that's
+good engineering discipline good
+engineering business a good Engineering
+Process methodologies Technologies all
+come together so that we could build
+safe AIS it's like building a safe
+airplane the automation systems with
+diversity and redundancy all of the
+backup systems make makes it possible
+for air travel the airplane to be safe
+and air travel to be safe the same ideas
+will apply to artificial intelligence it
+is our fundamental mission to enable AI
+to be realized for the benefits of
+society but doing in a way that is
+systematically safe and not only do we
+make the AI safe we create other AIS to
+keep it safe I have another special
+guest an industry pioneer
+someone someone we can genuinely said
+digitalize
+India and help build the fabric of the
+modern internet India that we know
+ladies and gentlemen mesh Ambani the IT
+industry of India is world world
+renowned for its very large
+scale and not just in size but in deep
+expertise of computer science very few
+countries in the world has this natural
+resource this amazing natural resource
+called it and computer science expertise
+in the last couple of years we've been
+working together to upskill and we've
+now upskilled about
+200,000 it professionals into the world
+of AI India has become home right among
+all the companies across the world we
+are our fastest in growing industry is
+global competency centers so we do space
+research in India we do pharmaceutical
+research in India I'm sure that you're
+thinking of building chips in India we
+are in our own energy industry we do bio
+energy industry all the energy major
+shell BP right actually do their
+innovation in India so India is fast
+becoming a Innovation Hub for the world
+in terms of where we are today apart
+from the US and China right India has
+the best digital connectivity
+infrastructure 4G 5G and Broadband in
+the world yeah one of the things that
+that that uh you you've highlighted is
+just the immense amount of Digital Data
+that's available um surely at Gio and in
+India and this is leads to leads to one
+of the things that I want to announce uh
+with you uh as you as you know in order
+to lead in artificial intelligence you
+need to have uh AI model technology that
+uh India has you need to have data
+massive quantities of data the last
+thing you need is uh AI infrastructure
+and uh uh we're we're announcing that
+that Reliance and Nvidia are partnering
+uh to build AI infrastructure here in
+India so now you you have the
+fundamental ingredients uh AI data and
+AI infrastructure uh and you have a
+large population of users that
+ultimately creates your AI flywheel we
+are now ready for big scaleup so we're
+building infrastructure right and we
+think big so we're building
+infrastructure for 1 gwatt which can be
+expandable to multiple gwatt at one
+location it
+is important that we design and build
+infrastructure so that to use AI our
+customers don't have to change a phone
+don't have to change their computers but
+they can still get good quality Ai and
+we take the burden of putting that
+infrastructure together yeah and I think
+that is what uh we are counting on you
+and us to do The Foundry tools that we
+have we are looking forward to a
+Development Center where we take core of
+your tools and train hundreds of
+thousands of developers in India to use
+all the Enterprise tools to use the
+Omniverse tools so that we can really
+apply intelligence in a practical way
+and to me this is just the starting of
+this intelligence age certainly we would
+agree that this is an extraordinary time
+for the world and this is an
+extraordinary opportunity for India um
+to have precisely the conditions to have
+such a large population and large
+industry of computer
+scientists at a time when this industry
+the Computing industry is going to
+become the intelligence
+industry leveraging on everything that
+you have leveraging on everything that
+you know and your indigenous
+Advantage enormous amounts of data a
+large population of consumers to drive
+that flywheel of intelligence to data
+data to intelligence intelligence to
+data and have to National will to go do
+something about it this is such an
+extraordinary time and I am honored and
+privileged to be partnered with you to
+do this and let's make it a promise
+today that we will work together so that
+India could take advantage of the
+intelligence Revolution that's ahead of
+us
